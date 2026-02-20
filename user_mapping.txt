@@ -48,3 +48,4 @@
 [2026-02-20] | 6757343842 | @egynotdev | JooModdss-192715 | Basic
 [2026-02-20] | 7205298650 | @unknown | JooModdss-148056 | Basic
 [2026-02-20] | 6174637671 | @unknown | JooModdss-708694 | Basic
+[2026-02-20] | 7926135540 | @KanzzzOfficial | JooModdss-371628 | Basic
