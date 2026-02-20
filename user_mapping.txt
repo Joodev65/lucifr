@@ -37,3 +37,4 @@
 [2026-02-20] | 7992062640 | @nvll_xs | JooModdss-851824 | Basic
 [2026-02-20] | 7620795943 | @ItsMeXanderRz | JooModdss-452336 | Basic
 [2026-02-20] | 7275726524 | @unknown | JooModdss-531003 | Basic
+[2026-02-20] | 7347928780 | @AxellTzx | JooModdss-665038 | Basic
