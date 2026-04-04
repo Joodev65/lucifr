@@ -94,11 +94,6 @@
       "token": "token020",
       "user": "user20",
       "expired": null
-    },
-    {
-      "user": "memek",
-      "token": "111222",
-      "expired": "2099-01-01"
     }
   ]
 }
