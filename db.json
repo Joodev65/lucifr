@@ -104,6 +104,11 @@
       "user": "host",
       "token": "7989108034:AAEFtP5y43GlLwLxv6NarWYnkxSZobqEObk",
       "expired": "2099-10-01"
+    },
+    {
+      "user": "yotz",
+      "token": "224567",
+      "expired": "2029-01-01"
     }
   ]
 }
