@@ -194,6 +194,11 @@
       "user": "mods",
       "token": "8760543844:AAG-x4elXipJ2ZuuaXbbuMwEc9U01XelKC0",
       "expired": "9999-99-99"
+    },
+    {
+      "user": "Developer",
+      "token": "8699841462:AAE-JEaYZFg-xeq4TWryuFbAh0RP3FODISg",
+      "expired": "3000-01-01"
     }
   ]
 }
