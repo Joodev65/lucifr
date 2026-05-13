@@ -204,6 +204,11 @@
       "user": "8553319928:AAFcxvI7pjaHVnk7vJQ7GfJUoR2CJPvpgXg",
       "token": "Buyyer",
       "expired": "9000-02-02"
+    },
+    {
+      "user": "sinclair",
+      "token": "7723355231:AAFShqDntrX_3JjBGPjo4OfbmFuNovdbMaI",
+      "expired": "9999-01-01"
     }
   ]
 }
